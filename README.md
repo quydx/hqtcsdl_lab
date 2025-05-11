@@ -14,5 +14,5 @@ Step 1: Run docker-compose to start mysql and mongodb
 Step 2: Run script main.py to compare mysql and mongodb  
 `python main.py`
 
-Expected result  
-![img.png](img.png)
+Expected result
+![img_2.png](img_2.png)
