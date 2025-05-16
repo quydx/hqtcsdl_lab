@@ -12,7 +12,12 @@ Step 1: Run docker-compose to start mysql and mongodb
 `docker-compose up -d`
 
 Step 2: Run script main.py to compare mysql and mongodb  
-`python main.py`
+Compare query  
+`python run_query.py`  
+
+
+Compare insert and update  
+`python run_insert_update.py`
 
 Expected result  
 Query
