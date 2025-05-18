@@ -11,7 +11,10 @@ Put json files into mongo-init folder
 Step 1: Run docker-compose to start mysql and mongodb  
 `docker-compose up -d`
 
-Step 2: Run script main.py to compare mysql and mongodb  
+Step 2: Install libraries  
+`pip install -r requirements.txt`  
+
+Step 3: Run script main.py to compare mysql and mongodb  
 Compare query  
 `python run_query.py`  
 
