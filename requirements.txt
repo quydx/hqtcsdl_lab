@@ -1,0 +1,4 @@
+pymongo
+matplotlib
+loguru
+mysql-connector-python
